@@ -9,6 +9,7 @@ gcc helloworld.c
 ./a.out
 gcc -o helloworld.i helloworld.c -E
 ```
+
  - 基本概念:
 	- 预处理
 		 - .c文件 -> .i文件
